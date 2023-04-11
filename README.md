@@ -23,5 +23,5 @@ I am a data scientist and analyst with the aim of making sense out of every litt
 
 ### 📊 stats
 
-![Nifesimi's Github stats](https://github-readme-stats.vercel.app/api?username=Nifesimi23&show_icons=true&theme=gruvbox)
+![Nifesimi's Github stats](https://github-readme-stats.vercel.app/api?username=Nifesimi23&show_icons=true&theme=highcontrast)
   
