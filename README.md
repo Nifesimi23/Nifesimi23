@@ -2,7 +2,7 @@
 
 **`Data scientist / analyst`**
 
-I am a data scientist and analyst with the aim of making sense out of every little data. All projects are analysed and visualised through the use of Phyton, MYSQL, PowerBI, Data manipulation tools(panda,numpy,matplotlib and seaborn). 
+I am a data scientist and analyst with the aim of making sense out of every little data. All projects are analysed and visualised through the use of Phyton, MYSQL, PowerBI and Data manipulation tools(panda,numpy,matplotlib and seaborn). 
 
 
 ---
